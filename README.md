@@ -24,7 +24,7 @@ npm install
 composer install
 ```
 
-> Rodar Build ou Contruir Desenvolvimento
+> Rodar Build ou Construir Desenvolvimento
 > 
 
 ```powershell
