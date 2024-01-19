@@ -18,8 +18,19 @@ docker run --rm \
 > 
 
 ```powershell
+yarn install
+ou
 npm install
 composer install
+```
+
+> Rodar Build ou Contruir Desenvolvimento
+> 
+
+```powershell
+yarn dev
+ou
+yarn build
 ```
 
 <aside>
